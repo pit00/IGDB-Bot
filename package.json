@@ -1,0 +1,25 @@
+{
+  "name": "IGDBBot",
+  "version": "1.0.0",
+  "description": "IGDB bot for telegram.",
+  "repository": "https://github.com/pit00/",
+  "main": "Code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Code.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": "8.8.1"
+  },
+  "dependencies": {
+    "currency-formatter": "^1.2.1",
+    "dotenv": "^4.0.0",
+    "igdb-api-node": "^3.0.2",
+    "moment": "^2.18.1",
+    "node-schedule": "^1.2.4",
+    "telegraf": "^3.16.0",
+    "unirest": "^0.5.1"
+  }
+}
