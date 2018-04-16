@@ -9,7 +9,8 @@ For more information and how to use, access:
 [@IGDBBot](http://telegram.me/IGDBBot)
 
 Also, check the Telegram channel:
-[Pulse - Game News]https://t.me/pulsegamenews
+[Pulse - Game News](https://t.me/pulsegamenews)
+
 Game (and some movie, music, ...) news, constantly updated.
 
 ## Built With
